@@ -1,4 +1,4 @@
-#bahasa C
+#bahasa C untuk pemula
 #include <stdio.h>
 
 int main() {
