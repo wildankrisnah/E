@@ -1,4 +1,5 @@
 // bahasa C untuk pemula
+// program sederhana
 #include <stdio.h>
 
 int main() {
