@@ -1,4 +1,4 @@
-#bahasa C untuk pemula
+// bahasa C untuk pemula
 #include <stdio.h>
 
 int main() {
