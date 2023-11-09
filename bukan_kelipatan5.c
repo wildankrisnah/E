@@ -1,3 +1,4 @@
+#bahasa C
 #include <stdio.h>
 
 int main() {
@@ -8,7 +9,6 @@ int main() {
             printf("%d ", i);
         }
     }
-
     printf("\n");
 
     return 0;
